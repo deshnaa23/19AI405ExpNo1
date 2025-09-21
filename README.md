@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: S DESHNAA </h3>
+<h3>Name: DESHNAA S </h3>
 <h3>Register Number: 212224210003</h3>
 
 
@@ -99,6 +99,10 @@ for _ in range(6):
     agent.step()
     time.sleep(1)
 ```
+# Output:
+
+<img width="561" height="482" alt="Screenshot 2025-09-21 204059" src="https://github.com/user-attachments/assets/18fe6d7a-59f1-4e83-ba00-7d7cac51141d" />
+<img width="570" height="504" alt="Screenshot 2025-09-21 204108" src="https://github.com/user-attachments/assets/f82c76bd-e9a8-4b8d-b4c6-8d5c17c961c6" />
 
 # Result:
 The PEAS framework helps in systematically designing AI agents by defining performance measures, environment, actuators, and sensors. It ensures clarity, efficiency, and adaptability in developing agents for real-world applications.
